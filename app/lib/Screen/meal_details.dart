@@ -7,7 +7,7 @@ import 'package:app/provider/favorite_provider.dart';
 class MealDetail extends ConsumerWidget {
   const MealDetail({
     super.key,
-    required this.meal,
+    required this.meal, //
     //required this.onToggleFavorite, //USED BEFORE USING PROVIDER CONCEPT
   });
   final Meal meal;
