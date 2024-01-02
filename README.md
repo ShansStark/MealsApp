@@ -4,10 +4,10 @@
 This Flutter application explores advanced widgets, animations, cross-widget data handling, and widget management.
 
 ## Expense Tracker Layout
-- **Main Screen:** Displays a list of categories with 10 different choices.
-- **Meal List & Details Screen:** Clicking on a category shows a list of meals, and further selection reveals the recipe for the chosen meal.
-- **Favorites:** Marked meals as favorites can be quickly accessed on this screen.
-- **SideBar:** App function for filtering meals based on desired conditions in the categories.
+- **`Main Screen:`** Displays a list of categories with 10 different choices.
+- **`Meal List & Details Screen:`** Clicking on a category shows a list of meals, and further selection reveals the recipe for the chosen meal.
+- **`Favorites:`** Marked meals as favorites can be quickly accessed on this screen.
+- **`SideBar:`** App function for filtering meals based on desired conditions in the categories.
 
 ## Tools and Data Types Learned and Used:
 
