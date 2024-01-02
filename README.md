@@ -1,5 +1,5 @@
 # MealsRecipe Application
-
+# The contents are inside /app/lib/.. folder.
 ## Overview
 This Flutter application explores advanced widgets, animations, cross-widget data handling, and widget management.
 
